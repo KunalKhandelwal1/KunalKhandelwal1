@@ -97,20 +97,7 @@ I'm a first-year IT undergrad at IIIT Allahabad who enjoys two things equally: s
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KunalKhandelwal1&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalKhandelwal1&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalKhandelwal1&layout=compact&theme=radical" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KunalKhandelwal1&theme=radical&no-frame=true&row=1&column=6" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KunalKhandelwal1/KunalKhandelwal1/output/github-contribution-grid-snake-dark.svg" />
+  <img src="./metrics.svg" />
 </p>
 
 ---
