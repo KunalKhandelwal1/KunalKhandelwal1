@@ -3,7 +3,7 @@
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"> I'm Kunal</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EE6A6&center=true&vCenter=true&width=460&lines=Software+Engineer;Competitive+Programmer;Full-Stack+Developer;B.Tech+IT+%40+IIIT+Allahabad" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EE6A6&center=true&vCenter=true&width=460&lines=Software+Engineer;Competitive+Programmer;Backend+Developer;B.Tech+IT+%40+IIIT+Allahabad" />
 </p>
 
 <p align="center">
@@ -61,13 +61,13 @@ I'm a first-year IT undergrad at IIIT Allahabad who enjoys two things equally: s
 
 ### 💻 Featured Projects
 
-**[HappyU – Mental Health Platform](https://github.com/KunalKhandelwal1)**
+**[HappyU – Mental Health Platform](https://github.com/Skr-suyash/HappyU)**
 `React.js` `Node.js` `Express.js` `MongoDB` `Gemini API` `Socket.io` `WebRTC`
 - Spearheaded a 6-member team to architect and ship an AI-driven mental health platform with journaling and NLP-based mood analysis.
 - Built real-time chat and video consultation using WebSockets, WebRTC, JWT auth, and role-based authorization.
 - Designed and shipped 30+ RESTful API endpoints following MVC architecture.
 
-**[SpendLens – Personal Finance Tracker](https://github.com/KunalKhandelwal1)**
+**[SpendLens – Personal Finance Tracker](https://github.com/Dyfintie/DBMS_Project)**
 `React.js` `TypeScript` `Node.js` `Express` `PostgreSQL` `Prisma` `Redis` `Docker`
 - Built a finance tracker with transaction logging, category-wise budgeting, and automatic spending alerts with real-time balance updates.
 - Designed a normalized PostgreSQL schema with range-partitioned tables for scalable transaction history.
